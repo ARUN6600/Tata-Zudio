@@ -7,8 +7,6 @@ Domain: Retail Analytics
 Focus: Sales trends, city-wise performance, clothing category insights
 
 
-Absolutely, Arun! Here's a technical and structured README.md summary tailored to your workflow: CSV → SQL (50+ challenges) → Power BI dashboard. This format is ideal for GitHub and portfolio presentation.
-
 📊 Retail Sales Analytics Project
 Tools Used: CSV • SQL • Power BI
 Domain: Retail Analytics
